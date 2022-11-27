@@ -1,2 +1,2 @@
 # productivity-sounds
-Distant chatter built right in chrome to improve productivity
+Distant chatter built right into chrome to improve productivity
